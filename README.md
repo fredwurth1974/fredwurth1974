@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Frederico ou simplesmente Fred.
+# 👋 Olá! Eu me chamo frederico Würth.
 
 🎓 Graduado em Sistemas para Internet e atualmente graduando em Inteligência Artificial.  
 📊 Apaixonado por dados, aprendizado de máquina e todo o universo da IA.  
